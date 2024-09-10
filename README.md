@@ -9,7 +9,7 @@
   Отримайте цей евент та відправте apple push notification.
   Організуйте можливість затримати обробку івенту користувачем зі допомогою передачі X-Delay заголовка в кожному івенті на X мілісекунд.
 ---
-**`Мікросервіс №2`**
+**`Мікросервіс № 2`**
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
